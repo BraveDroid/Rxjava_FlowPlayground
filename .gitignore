@@ -1,0 +1,45 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+bin/
+target/
+gen/
+.classpath
+.settings
+*/.DS_Store
+*/.classpath
+*/.settings
+lint.xml
+*/lint.xml
+
+
+# Built application files
+build/
+
+# Crashlytics configuations
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+
+# Gradle generated files
+.gradle/
+
+# Signing files
+.signing/
+
+# User-specific configurations
+.idea/
+captures/
